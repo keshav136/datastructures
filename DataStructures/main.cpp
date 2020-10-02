@@ -16,6 +16,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
+	code start here
 	// Singly linked list.
 	//SLinkedList<int> lList;
 	//lList.AppendToTail(4);
